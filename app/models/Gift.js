@@ -24,7 +24,7 @@ export class Gift {
           <button onclick="app.GiftsController.openedGift('${this.id}')" class="btn btn-success">Open Gift</button>
         </div>
       </div>
-    </div>
+    </div> 
   
     `
   }
